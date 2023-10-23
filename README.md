@@ -23,6 +23,7 @@ var aboutMe = struct{
     LinkedIn: "https://www.linkedin.com/in/myselfmohdsameer",
     FavouriteProgrammingLanguages: []string{"Python", "TypeScript", "JavaScript"},
     OpenSources: []string{
+        "https://github.com/myselfmohdsameer/Apps.Miro",
         "https://github.com/myselfmohdsameer/Apps.ClickUp"
     },
 }
